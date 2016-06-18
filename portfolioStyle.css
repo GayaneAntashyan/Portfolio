@@ -1,0 +1,75 @@
+#header{
+	background-color:#D8D8D8;
+	height: 200px;
+	padding:5px;
+}
+body{
+	margin-top:0px;
+}
+#name{
+	text-align:center;
+	padding-top:45px;
+	font-size:40px;
+}
+
+#line{
+	clear:both;
+	height:4px;
+	background-color:#686868;
+	margin-top:0px;
+}
+#info{
+	margin-top:-20px;
+}
+#personalData{
+	line-height:30px;
+    background-color:#eeeeee;
+    height:530px;
+    width:300px;
+    float:left;
+    padding:5px;
+	padding-top:65px;
+}
+#experiance{
+	
+	margin-left:0px;;
+}
+#experiance h2 :hover{
+	color:lightgrey;
+	cursor:pointer;
+}
+#education{
+	
+	margin-left:0px;
+}
+#education h2:hover{
+	color:lightgrey ;
+	cursor:pointer;
+}
+#languages{
+	
+	margin-left:0px;
+}
+#languages h2 :hover{
+	color:lightgrey ;
+	cursor:pointer;
+}
+#other{
+	
+	margin-left:0px;
+}
+#other h2:hover{
+	color:lightgrey ;
+	cursor:pointer;
+}
+#line1{
+	clear:both;
+	height:4px;
+	background-color:#686868;
+	margin-bottom:0px;
+}
+#footer{
+	background-color:#D8D8D8;
+	height:200px;
+	
+}
